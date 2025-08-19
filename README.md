@@ -1,7 +1,7 @@
 # goofish-monitor
 ✨一款简单且高效的闲鱼监控助手，闲鱼捡漏助手，实现高效捡漏
 
-## [快速开始](https://xianyu.wuyoujobs.com/)
+## [快速开始](https://xianyu.wuyoujobs.com)
 
 ## 项目优势
 
