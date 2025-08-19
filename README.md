@@ -20,7 +20,7 @@
 2. 找到 **_m_h5_tk** 和 **_m_h5_tk_enc**
 3. 填入保存即可
 
-**==因无需登陆，凭证有效时长2小时，登陆后再获取可延长时效==**
+***因无需登陆，凭证有效时长2小时，登陆后再获取可延长时效***
 
 ![](https://raw.githubusercontent.com/zhang2657977442/MyPicGo/refs/heads/master/goofish-monitor/goofish2.png)
 ![](https://raw.githubusercontent.com/zhang2657977442/MyPicGo/refs/heads/master/goofish-monitor/goofish3.png)
